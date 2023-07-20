@@ -1,0 +1,69 @@
+.App{
+  height: 100%;
+  width: 100%;
+  background-color:#F5F5F5;
+}
+.divider{
+  height: 100vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+}
+.left{
+  box-shadow:0 0 5px rgba(0, 0, 0, 0.3);
+  background-color: white;
+  height: 100%;
+  margin-right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Century Gothic;
+  text-align: center;
+  gap: 10px;
+}
+.img{
+  margin-top: 20px;
+  width: 89px;
+  height: 70px;
+}
+.navbartag1{
+  width: 90%;
+  border-radius: 10px;
+  justify-content: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+}
+.navbartag1:hover{
+  background-color: #728bc9;
+}
+.navbartag2{
+  width: 90%;
+  border-radius: 10px;
+  justify-content: center;
+  cursor: pointer;
+  display: flex;
+  gap: 10px;
+  color: #1B59F8;
+  background-color: #d6e0f7;
+}
+.workspacestyle1{
+  margin-top:18px;
+  font-weight:900;
+  font-size:18px;
+  
+}
+.workspacestyle2{
+  margin-top:18px;
+  font-weight:900;
+  font-size:18px;
+  color: #1B59F8;
+}
+.right{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  
+  background-color:#F5F5F5;
+  justify-content: center;
+}

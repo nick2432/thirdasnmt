@@ -1,0 +1,101 @@
+{
+    "customers": [
+      {
+        "name": "John Doe",
+        "company": "ABC Corporation",
+        "phone": "1234567890",
+        "email": "john.doe@example.com",
+        "country": "United States",
+        "status": "active"
+      },
+      {
+        "name": "Jane Smith",
+        "company": "XYZ Inc.",
+        "phone": "9876543210",
+        "email": "jane.smith@example.com",
+        "country": "Canada",
+        "status": "inactive"
+      },
+      {
+        "name": "Mark Johnson",
+        "company": "123 Industries",
+        "phone": "5551234567",
+        "email": "mark.johnson@example.com",
+        "country": "Australia",
+        "status": "active"
+      },
+      {
+        "name": "Emily Brown",
+        "company": "DEF Corporation",
+        "phone": "9876543210",
+        "email": "emily.brown@example.com",
+        "country": "United Kingdom",
+        "status": "active"
+      },
+      {
+        "name": "Michael Davis",
+        "company": "456 Enterprises",
+        "phone": "5559876543",
+        "email": "michael.davis@example.com",
+        "country": "Germany",
+        "status": "inactive"
+      },
+      {
+        "name": "Sophia Johnson",
+        "company": "GHI Inc.",
+        "phone": "1234509876",
+        "email": "sophia.johnson@example.com",
+        "country": "France",
+        "status": "active"
+      },
+      {
+        "name": "Daniel Wilson",
+        "company": "789 Corporation",
+        "phone": "5556789012",
+        "email": "daniel.wilson@example.com",
+        "country": "Spain",
+        "status": "inactive"
+      },
+      {
+        "name": "Oliver Taylor",
+        "company": "JKL Ltd.",
+        "phone": "1234567890",
+        "email": "oliver.taylor@example.com",
+        "country": "Canada",
+        "status": "active"
+      },
+      {
+        "name": "Emma Garcia",
+        "company": "MNO Solutions",
+        "phone": "9876543210",
+        "email": "emma.garcia@example.com",
+        "country": "United States",
+        "status": "active"
+      },
+      {
+        "name": "David Martinez",
+        "company": "PQR Services",
+        "phone": "5551234567",
+        "email": "david.martinez@example.com",
+        "country": "Mexico",
+        "status": "inactive"
+      },
+      {
+        "name": "Sophie Anderson",
+        "company": "STU Co.",
+        "phone": "1234509876",
+        "email": "sophie.anderson@example.com",
+        "country": "Australia",
+        "status": "active"
+      },
+      {
+        "name": "Alexander Clark",
+        "company": "VWX Enterprises",
+        "phone": "5556789012",
+        "email": "alexander.clark@example.com",
+        "country": "Canada",
+        "status": "inactive"
+      }
+    ]
+  }
+  
